@@ -1,0 +1,9 @@
+C:\Backend-Ödev\Kumbara\bin\Debug\Kumbara.exe.config
+C:\Backend-Ödev\Kumbara\bin\Debug\Kumbara.exe
+C:\Backend-Ödev\Kumbara\bin\Debug\Kumbara.pdb
+C:\Backend-Ödev\Kumbara\obj\Debug\HelalKumbara.csprojAssemblyReference.cache
+C:\Backend-Ödev\Kumbara\obj\Debug\HelalKumbara.Form1.resources
+C:\Backend-Ödev\Kumbara\obj\Debug\Kumbara.Properties.Resources.resources
+C:\Backend-Ödev\Kumbara\obj\Debug\HelalKumbara.csproj.GenerateResource.cache
+C:\Backend-Ödev\Kumbara\obj\Debug\Kumbara.exe
+C:\Backend-Ödev\Kumbara\obj\Debug\Kumbara.pdb
